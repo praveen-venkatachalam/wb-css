@@ -1,0 +1,14 @@
+/*external css*/
+h3 {
+color: chartreuse;
+}
+/* element selector*/
+body{
+    background-color: darkgray;
+}
+h4 {
+    color: darkgreen;
+}
+
+/*class selector*/
+
