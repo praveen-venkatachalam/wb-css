@@ -1,6 +1,6 @@
 /*external css*/
 h3 {
-color: chartreuse;
+color: rgb(15, 255, 243);
 }
 /* element selector*/
 body{
@@ -11,10 +11,16 @@ h4 {
 }
 
 /*class selector*/
+/*css colour*/
 .cl{
-    color: darkmagenta;
-    font-size: 50px;
+    background: linear-gradient(to left,rgb(85, 85, 243),rgb(143, 235, 143));
 }
+/*css shadows*/
+.cl h1{
+    color: honeydew;
+    text-shadow: 2px 2px 5px black;
+}
+
 #circle{
     color: darkred;
     border: greens;
